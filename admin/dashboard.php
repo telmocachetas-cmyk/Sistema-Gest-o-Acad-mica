@@ -143,7 +143,7 @@ $ultimos_users = mysqli_query($conn, "SELECT * FROM users ORDER BY login DESC LI
         </div>
         
         <div class="nav">
-            <a href="gerir_cursos.php">📚 Cursos</a>
+            <a href="gerir_cursos.php">📚 MUDEI ISTO AGORA</a>
             <a href="gerir_disciplinas.php">📖 Unidades Curriculares</a>
             <a href="gerir_planos.php">📋 Planos de Estudo</a>
             <a href="gerir_utilizadores.php">👥 Utilizadores</a>
